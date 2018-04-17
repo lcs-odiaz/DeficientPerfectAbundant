@@ -15,3 +15,8 @@ var rawInput = readLine()
 print("You said:")
 print(rawInput)
 
+for i ... n/2 {
+    if n % i == 0 {
+        
+    }
+}
