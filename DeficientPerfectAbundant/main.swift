@@ -21,7 +21,7 @@ while 1 == 1 {
     }
     
     // Test #2: Can we make the string
-    guard let givenInteger = Int(givenInput) else {
+    guard let givenIntger = Int(givenInput) else {
         // If we got here, the input couldn't be made into an integer
         // For example, "five"
         continue
@@ -55,5 +55,5 @@ if n < divisorSum {
 }
 if n > divisorSum {
     print("/(n) is a abundant number")
-}
+}//blah blahh
 
